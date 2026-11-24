@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this pilot if you use it."
+title: "Airline policy pairs for τ²-bench"
+type: dataset
+version: "0.1.0"
+date-released: "2026-11-23"
+repository-code: "https://github.com/Koderok/tau2-airline-policy-pairs"
+authors:
+  - family-names: Yadav
+    given-names: Pulkit
